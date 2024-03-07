@@ -2,9 +2,9 @@
 
 ## Resources
 
-<a href="https://www.cuemath.com/algebra/pascals-triangle/" target="_blank">What is Pascal’s triangle</a>
-<a href="https://www.youtube.com/watch?reload=9&feature=shared&v=0iMtlus-afo" target="_blank">Pascal’s Triangle - Numberphile</a>
-<a href="https://builtin.com/data-science/python-algorithms" target="_blank">What are Python Algorithms</a>
+<a href="https://www.cuemath.com/algebra/pascals-triangle/" target="_blank">What is Pascal’s triangle</a><br>
+<a href="https://www.youtube.com/watch?reload=9&feature=shared&v=0iMtlus-afo" target="_blank">Pascal’s Triangle - Numberphile</a><br>
+<a href="https://builtin.com/data-science/python-algorithms" target="_blank">What are Python Algorithms</a><br>
 
 ## Additional Resources
 
