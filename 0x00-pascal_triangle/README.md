@@ -68,7 +68,26 @@ By revisiting these concepts, you will be well-prepared to tackle the challenges
 
 ## Pascal Triangle's Logic
 
-lorem
+The formula to fill the number in the nth column and mth row of Pascal's triangle we use the Pascals triangle formula. The formula requires the knowledge of the elements in the (n-1)<sup>th</sup> row, and (m-1)<sup>th</sup> and n<sup>th</sup> columns. The elements of the nth row of Pascal's triangle are given by:
+
+<sup>n</sup>C<sub>0</sub>, <sup>n</sup>C<sub>1</sub>, <sup>n</sup>C<sub>2</sub>, ..., <sup>n</sup>C<sub>n</sub>. 
+
+The formula for Pascal's triangle is:
+
+<sup>n</sup>C<sub>m</sub> = <sup>n-1</sup>C<sub>m-1</sub> + <sup>n-1</sup>C<sub>m</sub>
+
+where:
+
+nCm represents the (m+1)th element in the nth row.
+n is a non-negative integer, and
+0 ≤ m ≤ n.
+Let us understand this with an example. If we want to find the 3rd element in the 4th row, this means we want to calculate 4C2. Then according to the formula, we get
+
+4C2 = 4-1C2-1 + 4-1C2
+
+⇒ 4C2 = 3C1 + 3C2
+
+So, this means we need to add the 2nd element in the 3rd row (i.e. 3) with the 3rd element in the 3rd row (i.e. 3.). So our answer will be 4C2 = 3 + 3 = 6
 
 ---
 
