@@ -78,16 +78,24 @@ The formula for Pascal's triangle is:
 
 where:
 
-nCm represents the (m+1)th element in the nth row.
-n is a non-negative integer, and
-0 ≤ m ≤ n.
-Let us understand this with an example. If we want to find the 3rd element in the 4th row, this means we want to calculate 4C2. Then according to the formula, we get
+- <sup>`n`</sup>`C`<sub>`m`</sub> represents the (m+1)<sup>th</sup> element in the n<sup>th</sup> row.
 
-4C2 = 4-1C2-1 + 4-1C2
+- `n` is a non-negative integer, and
+- `0 ≤ m ≤ n`.
 
-⇒ 4C2 = 3C1 + 3C2
+Let us understand this with an example. 
 
-So, this means we need to add the 2nd element in the 3rd row (i.e. 3) with the 3rd element in the 3rd row (i.e. 3.). So our answer will be 4C2 = 3 + 3 = 6
+If we want to find the 3rd element in the 4th row, this means we want to calculate <sup>4</sup>C<sub>2</sub>. Then according to the formula, we get
+
+<sup>4</sup>C<sub>2</sub> = (<sup>4-1</sup>C<sub>2-1</sub>) + (<sup>4-1</sup>C<sub>2</sub>)
+
+=> <sup>4</sup>C<sub>2</sub> = <sup>3</sup>C<sub>1</sub> + <sup>3</sup>C<sub>2</sub>
+
+So, this means we need to add the 2nd element in the 3rd row (i.e. 3) with the 3rd element in the 3rd row (i.e. 3.). 
+
+So our answer will be 
+
+<sup>4</sup>C<sub>2</sub> = 3 + 3 = 6
 
 ---
 
