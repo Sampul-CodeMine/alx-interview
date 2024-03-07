@@ -17,12 +17,12 @@ def pascal_triangle(n: int) -> list:
         list: list of lists of integers with resulting coefficients
     """
 
-    triangle = []
+    t_angle = []
     if type(n) is not int or n <= 0:
-        return triangle
-    for i in range(n):
-        tr = [1 if j == 0 or j == i else (triangle[i - 1][j - 1] +
-                                          triangle[i - 1][j])
-              for j in range(i + 1)]
-        triangle.append(tr)
-    return triangle
+        return t_angle
+    for itr1 in range(n):
+        tmp_row = [1 if j == 0 or j == itr1 else (t_angle[itr1 - 1][j - 1] +
+                                                  t_angle[itr1 - 1][j])
+                   for j in range(itr1 + 1)]
+        t_angle.append(tmp_row)
+    return t_angle
