@@ -8,39 +8,39 @@ For this project, you will need a solid understanding of several key concepts in
 
 - #### Lists and List Manipulation:
 
-> - - Understanding how to work with lists, including accessing elements, iterating over lists, and modifying lists dynamically.
-> - - <a href="https://docs.python.org/3/tutorial/datastructures.html" target="_blank">Python Lists (Python Official Documentation)</a>
+> - Understanding how to work with lists, including accessing elements, iterating over lists, and modifying lists dynamically.
+> - <a href="https://docs.python.org/3/tutorial/datastructures.html" target="_blank">Python Lists (Python Official Documentation)</a>
 
 - #### Graph Theory Basics:
 
-> - - Although not explicitly required, knowledge of graph theory (especially concepts related to traversal algorithms like Depth-First Search or Breadth-First Search) can be very helpful in solving this problem, as the boxes and keys can be thought of as nodes and edges in a graph.
-> - - <a href="https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs" target="_blank">Graph Theory (Khan Academy)</a>
+> - Although not explicitly required, knowledge of graph theory (especially concepts related to traversal algorithms like Depth-First Search or Breadth-First Search) can be very helpful in solving this problem, as the boxes and keys can be thought of as nodes and edges in a graph.
+> - <a href="https://www.khanacademy.org/computing/computer-science/algorithms/graph-representation/a/representing-graphs" target="_blank">Graph Theory (Khan Academy)</a>
 
 - #### Algorithmic Complexity:
 
-> - - Understanding the time and space complexity of your solution is important, as it can help in writing more efficient algorithms.
-> - - <a href="https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/" target="_blank">Big O Notation (GeeksforGeeks)</a>
+> - Understanding the time and space complexity of your solution is important, as it can help in writing more efficient algorithms.
+> - <a href="https://www.geeksforgeeks.org/asymptotic-notation-and-analysis-based-on-input-size-of-algorithms/" target="_blank">Big O Notation (GeeksforGeeks)</a>
 
 - #### Recursion:
 
-> - - Some solutions might require a recursive approach to traverse through the boxes and keys.
-> - - <a href="https://realpython.com/python-recursion/" target="_blank">Recursion in Python (Real Python)</a>
+> - Some solutions might require a recursive approach to traverse through the boxes and keys.
+> - <a href="https://realpython.com/python-recursion/" target="_blank">Recursion in Python (Real Python)</a>
 
 - #### Queue and Stack:
 
-> - - Knowing how to use queues and stacks is crucial if implementing a breadth-first search (BFS) or depth-first search (DFS) algorithm to traverse through the keys and boxes.
-> - - <a href="https://www.geeksforgeeks.org/queue-in-python/" target="_blank">Python Queue and Stack (GeeksforGeeks)</a>
+> - Knowing how to use queues and stacks is crucial if implementing a breadth-first search (BFS) or depth-first search (DFS) algorithm to traverse through the keys and boxes.
+> - <a href="https://www.geeksforgeeks.org/queue-in-python/" target="_blank">Python Queue and Stack (GeeksforGeeks)</a>
 
 - #### Set Operations:
 
-> - - Understanding how to use sets for keeping track of visited boxes and available keys can optimize the search process.
-> - - <a href="https://docs.python.org/3/tutorial/datastructures.html#sets" target="_blank">Python Sets (Python Official Documentation)</a>
+> - Understanding how to use sets for keeping track of visited boxes and available keys can optimize the search process.
+> - <a href="https://docs.python.org/3/tutorial/datastructures.html#sets" target="_blank">Python Sets (Python Official Documentation)</a>
 
 By reviewing these concepts and utilizing these resources, you will be well-equipped to develop an efficient solution for this project, applying both your algorithmic thinking and Python programming skills.
 
 - #### Additional Resources
 
-> - - <a href="https://www.youtube.com/watch?v=V8DGdPkBBxg" target="_blank">Mock Technical Interview</a>
+> - <a href="https://www.youtube.com/watch?v=V8DGdPkBBxg" target="_blank">Mock Technical Interview</a>
 
 ## Requirements
 
