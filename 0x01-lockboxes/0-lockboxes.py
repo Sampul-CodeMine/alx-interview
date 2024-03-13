@@ -11,7 +11,7 @@ def canUnlockAll(boxes: list) -> bool:
     """
 
     # Check if the argument is a valid list or is not empty
-    if type(boxes) == list or len(boxes) > 0:
+    if type(boxes) is list or len(boxes) > 0:
         for idx in range(1, len(boxes) - 1):
             checked_box = False
             for i in range(len(boxes)):
