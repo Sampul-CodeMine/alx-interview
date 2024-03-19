@@ -17,7 +17,7 @@ For this project, you will need to understand several key algorithmic and mathem
 > ### Code Optimization:
 >
 > - Knowing how to approach problems from an optimization perspective can be useful in finding the most efficient solution.
-> > - <a href="https://stackify.com/how-to-optimize-python-code/" target="_blank">How to optimize Python code</a>
+> - <a href="https://stackify.com/how-to-optimize-python-code/" target="_blank">How to optimize Python code</a>
 
 > ### Greedy Algorithms:
 >
