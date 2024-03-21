@@ -10,7 +10,7 @@ def minOperations(n: int) -> int:
 
     Args:
         n (int)
-    
+
     Returns:
         (int) value
     """
