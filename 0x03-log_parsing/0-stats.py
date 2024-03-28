@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 """
 This is a module that parses logs by reading standard input/output
 line by line and computing the metrics or statistics of the status codes
